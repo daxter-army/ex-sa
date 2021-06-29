@@ -1,0 +1,49 @@
+.Header {
+  padding: 10px;
+  text-align: center;
+}
+
+.Heading {
+  font-size: 5rem;
+}
+
+.SubHeading {
+  font-size: 1.5rem;
+}
+
+.Filter {
+  padding: 10px 20px;
+}
+
+.Years {
+  margin: 0 20px;
+  font-size: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.Sems {
+  margin: 0px 20px;
+  font-size: 1.5rem;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.ActiveSemItem {
+  color: black;
+  background-color: bisque;
+}
+
+.SemItems {
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}
