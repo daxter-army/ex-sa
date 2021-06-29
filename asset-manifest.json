@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/ex-sa/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ex-sa/static/js/main.25178da0.chunk.js",
-    "main.js.map": "/ex-sa/static/js/main.25178da0.chunk.js.map",
-    "runtime-main.js": "/ex-sa/static/js/runtime-main.2c053882.js",
-    "runtime-main.js.map": "/ex-sa/static/js/runtime-main.2c053882.js.map",
-    "static/js/2.1318190d.chunk.js": "/ex-sa/static/js/2.1318190d.chunk.js",
-    "static/js/2.1318190d.chunk.js.map": "/ex-sa/static/js/2.1318190d.chunk.js.map",
-    "static/js/3.f9f2ee20.chunk.js": "/ex-sa/static/js/3.f9f2ee20.chunk.js",
-    "static/js/3.f9f2ee20.chunk.js.map": "/ex-sa/static/js/3.f9f2ee20.chunk.js.map",
+    "main.css": "/ex-sa/static/css/main.78ac3cf9.chunk.css",
+    "main.js": "/ex-sa/static/js/main.9bfde2dd.chunk.js",
+    "main.js.map": "/ex-sa/static/js/main.9bfde2dd.chunk.js.map",
+    "runtime-main.js": "/ex-sa/static/js/runtime-main.3862631d.js",
+    "runtime-main.js.map": "/ex-sa/static/js/runtime-main.3862631d.js.map",
+    "static/js/2.17a47804.chunk.js": "/ex-sa/static/js/2.17a47804.chunk.js",
+    "static/js/2.17a47804.chunk.js.map": "/ex-sa/static/js/2.17a47804.chunk.js.map",
     "index.html": "/ex-sa/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ex-sa/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.1318190d.chunk.js.LICENSE.txt": "/ex-sa/static/js/2.1318190d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ex-sa/static/media/logo.6ce24c58.svg"
+    "static/css/main.78ac3cf9.chunk.css.map": "/ex-sa/static/css/main.78ac3cf9.chunk.css.map",
+    "static/js/2.17a47804.chunk.js.LICENSE.txt": "/ex-sa/static/js/2.17a47804.chunk.js.LICENSE.txt",
+    "static/media/year_1_sem_1_chem_est.c187dafa.jpg": "/ex-sa/static/media/year_1_sem_1_chem_est.c187dafa.jpg",
+    "static/media/year_1_sem_1_chem_mst.ed0f29b4.jpg": "/ex-sa/static/media/year_1_sem_1_chem_mst.ed0f29b4.jpg",
+    "static/media/year_1_sem_2_maths_est.b1415529.jpg": "/ex-sa/static/media/year_1_sem_2_maths_est.b1415529.jpg",
+    "static/media/year_2_sem_3_maths_est.9e806581.jpg": "/ex-sa/static/media/year_2_sem_3_maths_est.9e806581.jpg",
+    "static/media/year_2_sem_4_mechanics_mst.7518b949.jpg": "/ex-sa/static/media/year_2_sem_4_mechanics_mst.7518b949.jpg",
+    "static/media/year_3_sem_5_daa_est.2c25aa9a.jpg": "/ex-sa/static/media/year_3_sem_5_daa_est.2c25aa9a.jpg",
+    "static/media/year_3_sem_6_cg_mst.e6e4f8a4.jpg": "/ex-sa/static/media/year_3_sem_6_cg_mst.e6e4f8a4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c053882.js",
-    "static/js/2.1318190d.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.25178da0.chunk.js"
+    "static/js/runtime-main.3862631d.js",
+    "static/js/2.17a47804.chunk.js",
+    "static/css/main.78ac3cf9.chunk.css",
+    "static/js/main.9bfde2dd.chunk.js"
   ]
 }
