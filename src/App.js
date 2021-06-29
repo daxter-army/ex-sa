@@ -46,9 +46,7 @@ function App() {
     <div className={classes.App}>
       <div className={classes.Header}>
         <p className={classes.Heading}>ExSa</p>
-        <p style={{ fontSize: "16px", transform: "translate(0, -15px)" }}>
-          Exam Saviour
-        </p>
+        <p className={classes.FullForm}>Exam Saviour</p>
         <p className={classes.SubHeading}>
           Exam question papers repository for TIET, Derabassi
         </p>

@@ -7,6 +7,11 @@
   font-size: 5rem;
 }
 
+.FullForm {
+  font-size: 16px;
+  transform: translate(0, -15px);
+}
+
 .SubHeading {
   font-size: 1.5rem;
 }
@@ -24,7 +29,7 @@
 
 .Sems {
   margin: 0px 20px;
-  font-size: 1.5rem;
+  /* font-size: 1.5rem; */
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -46,4 +51,22 @@
   justify-content: center;
   align-items: center;
   height: 200px;
+}
+
+@media screen and (max-width: 480px) {
+  .Heading {
+    font-size: 3.5rem;
+  }
+
+  .SubHeading {
+    font-size: 1rem;
+  }
+
+  .Filter {
+    font-size: 13px;
+  }
+
+  .Years {
+    font-size: 22px;
+  }
 }
