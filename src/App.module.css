@@ -1,3 +1,7 @@
+.Content {
+  padding-bottom: 10px;
+}
+
 .Header {
   padding: 10px;
   text-align: center;
@@ -51,6 +55,34 @@
   justify-content: center;
   align-items: center;
   height: 200px;
+}
+
+.Contribute {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  position: fixed;
+  padding: 2px 6px;
+  top: 20px;
+  right: 20px;
+  text-align: center;
+  background: linear-gradient(-10deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 300%;
+  background-repeat: no-repeat;
+  animation: gradient 6s ease infinite;
+  border-radius: 5px;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
 }
 
 @media screen and (max-width: 480px) {

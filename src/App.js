@@ -100,6 +100,14 @@ function App() {
           <div className={classes.Loader}>loading...</div>
         )}
       </div>
+      <a
+        className={classes.Contribute}
+        href="https://www.github.com/daxter-army/ex-sa"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Contribute
+      </a>
     </div>
   );
 }
