@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ex-sa/static/css/main.0ed9e863.chunk.css",
-    "main.js": "/ex-sa/static/js/main.ab5c37e4.chunk.js",
-    "main.js.map": "/ex-sa/static/js/main.ab5c37e4.chunk.js.map",
+    "main.css": "/ex-sa/static/css/main.76ad2a80.chunk.css",
+    "main.js": "/ex-sa/static/js/main.56b9f366.chunk.js",
+    "main.js.map": "/ex-sa/static/js/main.56b9f366.chunk.js.map",
     "runtime-main.js": "/ex-sa/static/js/runtime-main.3862631d.js",
     "runtime-main.js.map": "/ex-sa/static/js/runtime-main.3862631d.js.map",
     "static/js/2.17a47804.chunk.js": "/ex-sa/static/js/2.17a47804.chunk.js",
     "static/js/2.17a47804.chunk.js.map": "/ex-sa/static/js/2.17a47804.chunk.js.map",
     "index.html": "/ex-sa/index.html",
-    "static/css/main.0ed9e863.chunk.css.map": "/ex-sa/static/css/main.0ed9e863.chunk.css.map",
+    "static/css/main.76ad2a80.chunk.css.map": "/ex-sa/static/css/main.76ad2a80.chunk.css.map",
     "static/js/2.17a47804.chunk.js.LICENSE.txt": "/ex-sa/static/js/2.17a47804.chunk.js.LICENSE.txt",
     "static/media/year_1_sem_1_chem_est.c187dafa.jpg": "/ex-sa/static/media/year_1_sem_1_chem_est.c187dafa.jpg",
     "static/media/year_1_sem_1_chem_mst.ed0f29b4.jpg": "/ex-sa/static/media/year_1_sem_1_chem_mst.ed0f29b4.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.3862631d.js",
     "static/js/2.17a47804.chunk.js",
-    "static/css/main.0ed9e863.chunk.css",
-    "static/js/main.ab5c37e4.chunk.js"
+    "static/css/main.76ad2a80.chunk.css",
+    "static/js/main.56b9f366.chunk.js"
   ]
 }
