@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 // COMPONENT
 import Year from "./components/Year/Year";
 import Gallery from "./components/Gallery/Gallery";
+import Modal from "./components/Modal/Modal";
 // FIXTURES
 import semesters from "./fixtures/semesters";
 import papers from "./fixtures/papers";
@@ -14,6 +15,7 @@ function App() {
   const [clgSem, setClgSem] = useState(0);
   const [semArray, setSemArray] = useState([]);
   const [papersArray, setPapersArray] = useState([]);
+  const [modal, setModal] = useState(false);
 
   useEffect(() => {
     setPapersArray(papers);
@@ -40,6 +42,10 @@ function App() {
     } else {
       setClgSem(0);
     }
+  };
+
+  const creditHanlder = () => {
+    modal ? setModal(false) : setModal(true);
   };
 
   return (
@@ -108,6 +114,10 @@ function App() {
       >
         Contribute
       </a>
+      <button className={classes.Credits} onClick={creditHanlder}>
+        Credits
+      </button>
+      {modal ? <Modal closeHandler={creditHanlder} /> : null}
     </div>
   );
 }
