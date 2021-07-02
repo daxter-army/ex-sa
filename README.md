@@ -14,7 +14,7 @@ ExSa is an open source repository for the exam question papers of my branch, for
 
 If you want to add question papers that are not currently present here, you can follow the following steps.
 
-1. Fork this repo and add your name to ..contributers.md\*\*.
+1. Fork this repo and add your name to file **contributors.md**.
 2. Create a pdf with containing clear images of the exam question paper you want to add and save it in directory - **src/assets/**
 3. Open file **papers.js** from **src/fixtures/**, write
 
