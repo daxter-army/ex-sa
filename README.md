@@ -9,7 +9,7 @@ ExSa is an open source repository for the exam question papers of my branch, for
 ## Tech Stack 📖
 
 - React.js is used in making this piece of software
-- Icons are provided by [Fontawesome.com](https://www.fontawesome.com)
+- Icons are provided by [fontawesome.com](https://www.fontawesome.com)
 
 ## Contribution ✨
 
