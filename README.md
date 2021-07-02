@@ -20,7 +20,7 @@ If you want to add question papers that are not currently present here, you can 
 3. Open file **papers.js** from **src/fixtures/**, write
 
 ```js
-import exam<next_counting_number_in_words> from "../assets/<name_of_the_file.pdf>";
+import image<next_counting_number_in_words> from "../assets/<name_of_the_file.pdf>";
 ```
 
 4. Add new element in the papers array at the end, with same properties as the previous ones are having, with appropriate values of id\_, year, sem, sub, type, source with respect to your question paper pdf file.
