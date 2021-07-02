@@ -26,7 +26,7 @@ import image<next_counting_number_in_words> from "../assets/<name_of_the_file.pd
 4. Add new element in the papers array at the end, with same properties as the previous ones are having, with appropriate values of id\_, year, sem, sub, type, source with respect to your question paper pdf file.
 5. For logo property, just put empty string, I will take care of it.
 6. Save the **papers.js** file and make a pull request for the repo and you are done!
-7. After reviewing the changes, if everything is fine, I will accept and merge those change in the main branch, and now your question paper is added in the list and you have done your open source contribution.
+7. After reviewing the changes, if everything is fine, I will accept and merge those change in the main branch, and now your question paper is added in the list and you have done your open source contribution 💯.
 
 ## License 📎
 
