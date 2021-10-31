@@ -1,17 +1,17 @@
-## Under Progress!
+## Not maintained anymore
 
 # ExSa - Exam Saviour
 
-## Intro 👋
+## 👋 Intro
 
 ExSa is an open source repository for the exam question papers of my branch, for my university campus (TIET, Derabassi)
 
-## Tech Stack 📖
+## 📖 Tech Stack
 
 - React.js is used in making this piece of software
 - Icons are provided by [fontawesome.com](https://www.fontawesome.com)
 
-## Contribution ✨
+## ✨ Contribution
 
 If you want to add question papers that are not currently present here, you can follow the following steps.
 
@@ -28,6 +28,6 @@ import image<next_counting_number_in_words> from "../assets/<name_of_the_file.pd
 6. Save the **papers.js** file and make a pull request for the repo and you are done!
 7. After reviewing the changes, if everything is fine, I will accept and merge those change in the main branch, and now your question paper is added in the list and you have done your open source contribution 💯.
 
-## License 📎
+## 📎 License
 
 MIT
